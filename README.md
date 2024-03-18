@@ -1831,12 +1831,6 @@ Pokemon Exceeded v10.1
 Pokemon Exceeded v11.0
 Pokemon Exceeded v11.1
 Pokemon Exceeded v11.4
-Pokemon Exceeded v11.5
-Pokemon Exceeded v2.0
-Pokemon Exceeded v7.2
-Pokemon Exceeded v8.3
-Pokemon Exceeded v9.0
-Pokemon Fire Gold v1.2
 Pokemon Fire Red Extended (v2.0.4)
 Pokemon Fire Red Extended (v3.2)
 Pokemon Fire Red Extended (v3.4.7)
